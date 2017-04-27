@@ -4,4 +4,4 @@ The concept behind Easel is a local artist's marketplace. Its purpose is a platf
 
 <i>Art in Charlottesville? Find it with ease!</i>
 
-(Note that this is not an actual business venture and just a learning exercise)
+(Note that this is not an actual business venture and just coding practice)
